@@ -3,14 +3,9 @@
 ## 🖥️ Backend Developer | Spring Framework | Java Enthusiast
 
 ---
-Welcome to my GitHub profile! I am Salvatore, and I am a backend developer who loves programming in Java and using the
-Spring Framework. Constantly learning new techniques and following emerging technologies, I am passionate about coding
-and creating efficient, scalable backend infrastructures.
+I am an **Associate Manager** with extensive experience in **Java**, **Spring Framework**, **Apache Kafka**, and **MongoDB**. My professional journey has been marked by hands-on expertise in building and maintaining scalable, high-performance applications using modern technologies.
 
-## 🌱 What I'm currently learning
-
-I'm currently enhancing my understanding and mastery of the Spring Framework, and I'm always on the lookout for new
-backend technologies and architectures to learn about.
+In addition to my strong core skills, I have knowledge of **Cloudera** and **Big Data** ecosystems, enabling me to handle large-scale data processing and analysis efficiently.
 
 ## 👯 Collaborations
 
@@ -27,14 +22,12 @@ Feel free to reach out to me for collaborations, help or just for a chat.
 
 ## 💼 Skills
 
-- Strong knowledge of Java 17+
+- Strong knowledge of Java 17/21
 - Experience in developing applications using Spring (Boot, Data, Security, Cloud, Batch)
 - Fluent in databases SQL & NoSQL (Postgresql, MongoDB, HBase)
 - Experienced in unit and integration tests using JUnit, Mockito
 - Proficient understanding of code versioning tools such as Git
-
-## 🎯 Goals for 2024
-
-- Contribute more to open-source projects
-- Master the Spring Framework & Co.
-- Expand my knowledge in cloud technologies
+- **Messaging Systems:** Apache Kafka, Spring Cloud Stream
+- **Big Data Tools:** Cloudera, Hadoop, Spark
+- **Cloud:**: AWS
+- **Databases:** MongoDB, SQL, HBase
