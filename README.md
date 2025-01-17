@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Salvatore!
 
-## 🖥️ Backend Developer | Spring Framework | Java Enthusiast
+## 🖥️ Professional Profile
 
 ---
 I am an **Associate Manager** with extensive experience in **Java**, **Spring Framework**, **Apache Kafka**, and **MongoDB**. My professional journey has been marked by hands-on expertise in building and maintaining scalable, high-performance applications using modern technologies.
